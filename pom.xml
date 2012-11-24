@@ -147,13 +147,7 @@
                 <configuration>
                     <formats>
                         <format>html</format>
-                        <format>xml</format>
                     </formats>
-                    <instrumentation>
-                        <excludes>
-                            <exclude>**/*Test.class</exclude>
-                        </excludes>
-                    </instrumentation>
                 </configuration>
             </plugin>
 
